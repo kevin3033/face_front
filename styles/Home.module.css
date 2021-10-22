@@ -1,0 +1,45 @@
+.left {
+    margin: 0;
+    background-color:  #f0f2f5;
+    height: auto;
+    width: 50%;
+}
+.cardleft {
+    margin-left: 30%;
+    margin-top: 30%;
+    background-color:  #f0f2f5;
+    height: 100%;
+    width: 100%;
+}
+
+.logo {
+    background-color: #f0f2f5;
+    width: auto;
+    height: 106px;
+    margin: -28px;
+}
+
+.textl {
+    padding-top:29px;
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    font-size: 28px;
+    font-weight: normal;
+    line-height: 32px;
+    width: 500px;
+}
+
+.right {
+    margin: 0;
+    background-color:  #f0f2f5;
+    height: auto;
+    width: 50%;
+    float: right;
+}
+
+.cardright {
+    margin-left: 30%;
+    margin-right: 30%;
+    background-color:  black;
+    height: 100%;
+    width: 100%;
+}
